@@ -1,0 +1,2 @@
+str="python program"
+Print=(str[2:])
