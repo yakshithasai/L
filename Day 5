@@ -1,0 +1,20 @@
+#Exercise 1
+a=int(input("Enter the value of a"))
+b=int(input("Enter the value of b"))
+def arithmetic (a,b):
+c=a+b
+Print("The addition is",c)
+d=a-b
+Print("The subtraction is",d)
+e=a/b
+Print("The division is",e)
+f=a*b
+Print("The multiplication is",f)
+return 
+#Exercise 2
+patient_name=input("Enter the patient name")
+Body_temperature=98
+def covid(patient_name,body_temperature):
+Print("The patient name is",patient_name +" and his Body temperature
+is",Body_temperature)
+return
